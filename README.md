@@ -8,7 +8,7 @@
 <a href="https://github.com/adriana-marcela">![Portadoa](./img/portada.jpg)</a>
 <hr>
 <!-- Description about me -->
-<h3 align="center"> 💬 About Me</h3>
+<h2 align="center"> 💬 About Me</h2>
 
 🔭 I love learning new things.
 
