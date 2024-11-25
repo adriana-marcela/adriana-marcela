@@ -23,11 +23,11 @@
 
 📧Please feel free to contact me for any inquiries or collaborations! adriana.mgi369@gmail.com
 
-<p align="left">
+<!--<p align="left">
   <a href="mailto:adriana.mgi369@gmail.com">
     <img src="https://img.shields.io/badge/SEND%20MAIL-D14836?&style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-</p>
+</p> -->
 
 ### 🔗 &nbsp;My Social Networks
 
