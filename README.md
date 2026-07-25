@@ -1,7 +1,7 @@
 <!-- ## 👋 &nbsp;Hey everyone! I'm Adriana Marcela  -->
 <p align="center">
   <img alt="Marce" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/Hand%20Wave.gif" width='40' align="center"> 
-  <h1 align="center">Hey everyone! I'm Marce 👋</h1>
+  <h1 align="center">Hey everyone! I'm Marce </h1>
 </p>
 
 <p align="center">
