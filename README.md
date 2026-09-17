@@ -25,7 +25,7 @@
 - 💼 FrontEnd Developer & Product Manager for Technology
 - 💻 Software Development Technician & Systems and Telecommunications Engineer
 - 🌱 Currently improving my English and diving deeper into AI-assisted development workflows
-- 🌎 Based in Myrtle Beach, SC · Colombian roots 🇨🇴
+- 🌎 Based in California, USA · Colombian roots 🇨🇴
 
 <br>
 
@@ -45,13 +45,13 @@
   <tr>
     <td align="center" width="300">
       <b>Iyerly</b><br>
-      Digital presence agency for SMBs<br>
+      Digital presence agency <br>
       <a href="https://iyerly.com">iyerly.com</a>
     </td>
     <td align="center" width="300">
       <b>Personal Portfolio</b><br>
       Vanilla HTML/CSS/JS, fully responsive<br>
-      <a href="#">Live demo →</a>
+      <a href="https://adrianagi.com/">Live demo →</a>
     </td>
   </tr>
 </table>
